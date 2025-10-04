@@ -4,6 +4,8 @@ export default function Home(){
     <div>
       <h1>Welcome — LUCT Faculty Reporting</h1>
       <p>This demo app implements the Lecturer Reporting Form and basic report listing.</p>
+      <p>This demo app implements the Lecturer Reporting Form and basic report listing.</p>
+      <p>This demo app implements the Lecturer Reporting Form and basic report listing.</p>
     </div>
   )
 }
